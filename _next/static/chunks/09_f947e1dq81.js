@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,56365,t=>{"use strict";var e=t.i(21933),u=t.i(80130);async function i(){let t=(0,u.e)();if("signed-in"!==t.status)return null;let i=await (0,e.f)();return i?{client:i,userId:t.userId}:null}t.s(["cloudCtx",0,i])}]);

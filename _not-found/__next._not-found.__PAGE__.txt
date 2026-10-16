@@ -1,0 +1,45 @@
+2:"$Sreact.fragment"
+3:"/pohomaker-preview/_next/static/chunks/1qg37r12egprg.js"
+4:"/pohomaker-preview/_next/static/chunks/2gwsgiz8n4kl1.js"
+5:"/pohomaker-preview/_next/static/chunks/0n92wdtlb4_pp.js"
+6:"/pohomaker-preview/_next/static/chunks/1yyn_iqxsv9zt.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+d:"/pohomaker-preview/_next/static/chunks/07why9hn_12fu.js"
+e:"/pohomaker-preview/_next/static/chunks/1d4e7gfzyilpx.js"
+f:"/pohomaker-preview/_next/static/chunks/31kt_ed7gm7ja.js"
+10:"/pohomaker-preview/_next/static/chunks/3mmgpy4zjyyzg.js"
+11:"/pohomaker-preview/_next/static/chunks/3mfkr4pchg8wz.js"
+12:"NoCurrentNavItem"
+13:I[33801,["$3","$4","$5","$6","$d","$e","$f","$10","$11"],"$12"]
+14:I[99258,["$3","$4","$5","$6","$d","$e","$f","$10","$11"],"AppShell"]
+15:I[5014,["$3","$4","$5","$6","$d","$e","$f","$10","$11"],"default"]
+16:I[22016,["$3","$4","$5","$6","$d","$e","$f","$10","$11"],""]
+1f:"ViewportBoundary"
+20:I[97367,["$3","$4","$5","$6"],"$1f"]
+21:"MetadataBoundary"
+22:I[97367,["$3","$4","$5","$6"],"$21"]
+23:"$Sreact.suspense"
+24:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$L13",null,{"children":["$","$L14",null,{"children":["$","div",null,{"className":"flex-1","children":["$","div",null,{"className":"mx-auto flex min-h-full max-w-[1240px] items-center justify-center px-4 py-10 sm:px-6 lg:px-8","children":["$","section",null,{"aria-labelledby":"not-found-title","className":"w-full max-w-xl rounded-[30px] bg-bed px-6 py-12 text-center sm:px-10","children":[["$","span",null,{"aria-hidden":true,"className":"mx-auto grid size-14 place-items-center rounded-2xl bg-card text-muted-foreground shadow-soft","children":["$","$L15",null,{"icon":{"name":"map-pin-off","size":24,"node":[["path",{"d":"M12.75 7.09a3 3 0 0 1 2.16 2.16","key":"1d4wjd"}],["path",{"d":"M17.072 17.072c-1.634 2.17-3.527 3.912-4.471 4.727a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 1.432-4.568","key":"12yil7"}],["path",{"d":"m2 2 20 20","key":"1ooewy"}],["path",{"d":"M8.475 2.818A8 8 0 0 1 20 10c0 1.183-.31 2.377-.81 3.533","key":"lhrkcz"}],["path",{"d":"M9.13 9.13a3 3 0 0 0 3.74 3.74","key":"13wojd"}]]},"className":"size-6"}]}],["$","h1",null,{"id":"not-found-title","className":"mt-6 font-heading text-[28px] leading-[1.1] font-extrabold tracking-[-0.03em] text-balance sm:text-[34px]","children":"We couldn’t find this page"}],["$","p",null,{"className":"mx-auto mt-3 max-w-[46ch] text-[15px] text-muted-foreground text-pretty","children":"The address may be mistyped, or the link may be out of date."}],["$","p",null,{"className":"mx-auto mt-2 max-w-[46ch] text-[14px] text-muted-foreground text-pretty","children":"Your projects aren’t affected. They’re saved in this browser on this device, and you’ll find them in My projects."}],["$","div",null,{"className":"mt-8 flex flex-wrap justify-center gap-2","children":[["$","$L16",null,{"href":"/designs","children":"Browse all designs","data-slot":"button","data-variant":"default","data-size":"default","className":"group/button inline-flex shrink-0 items-center justify-center border border-transparent bg-clip-padding whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 gap-1.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 h-11 rounded-full px-5 text-[14.5px] font-semibold focus-visible:ring-ring","ref":null}],["$","$L16",null,{"href":"/projects","children":"My projects","data-slot":"button","data-variant":"outline","data-size":"default","className":"group/button inline-flex shrink-0 items-center justify-center border bg-clip-padding whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 border-border bg-background hover:bg-muted hover:text-foreground aria-expanded:bg-muted aria-expanded:text-foreground dark:border-input dark:bg-input/30 dark:hover:bg-input/50 gap-1.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 h-11 rounded-full px-5 text-[14.5px] font-semibold focus-visible:ring-ring","ref":null}],"$L17"]}]]}]}]}]}]}],["$L18","$L19","$L1a","$L1b","$L1c"],"$L1d"]}],"p":"$@1e","v":null,"s":"$b"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#e9e2d8","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0d0c0b","media":"(prefers-color-scheme: dark)"}]]}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$23",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found · PoHoMaker"}],["$","meta","1",{"name":"description","content":"Design precise, ready-to-cut laser files — boxes, signs, keychains, stands, living hinges and more — previewed in 3D."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/pohomaker-preview/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L24","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@25","v":null,"s":"$b"}},"a":"$@26","u":"$@27","b":"AeQ4_eB1U_oX7941gejG4"}
+28:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+17:["$","$L16",null,{"href":"/","children":"Go to start","data-slot":"button","data-variant":"outline","data-size":"default","className":"group/button inline-flex shrink-0 items-center justify-center border bg-clip-padding whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 border-border bg-background hover:bg-muted hover:text-foreground aria-expanded:bg-muted aria-expanded:text-foreground dark:border-input dark:bg-input/30 dark:hover:bg-input/50 gap-1.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 h-11 rounded-full px-5 text-[14.5px] font-semibold focus-visible:ring-ring","ref":null}]
+18:["$","script","script-0",{"src":"/pohomaker-preview/_next/static/chunks/07why9hn_12fu.js","async":true}]
+19:["$","script","script-1",{"src":"/pohomaker-preview/_next/static/chunks/1d4e7gfzyilpx.js","async":true}]
+1a:["$","script","script-2",{"src":"/pohomaker-preview/_next/static/chunks/31kt_ed7gm7ja.js","async":true}]
+1b:["$","script","script-3",{"src":"/pohomaker-preview/_next/static/chunks/3mmgpy4zjyyzg.js","async":true}]
+1c:["$","script","script-4",{"src":"/pohomaker-preview/_next/static/chunks/3mfkr4pchg8wz.js","async":true}]
+1d:["$","$L28",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@29"}]}]
+27:true
+b:300
+29:null
+b:C
+26:0
+9:"$undefined"
+25:"$undefined"
+1e:"$undefined"

@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcategory\u002F[id]","\u002Fdesigns\u002F[generator]","\u002Feditor\u002F[id]","\u002Frender\u002F[generator]\u002F[template]","\u002Fsheets\u002F[generator]\u002F[template]","\u002Fthumbs\u002F[generator]\u002F[template]","\u002Fvariants\u002F[generator]\u002F[value]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
