@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,545729,o=>{"use strict";o.S([363135,"loadFont,n,parseFont,V"])}]);

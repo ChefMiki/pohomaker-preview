@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,882374,e=>{"use strict";let t={mode:"off",width:.6,smallSize:60,spacing:150};e.s(["Y",0,t,"f",0,{materialId:"birch-plywood",thickness:3,kerf:0,sheetWidth:600,sheetHeight:400,spacing:4,tabs:t}])}]);
